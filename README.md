@@ -152,5 +152,52 @@ void main()
 |fgr178707|[https://github.com/fgr178707](https://github.com/fgr178707)|
 |fgr178707|[https://github.com/fgr178707](https://github.com/fgr178707)|
 
+```
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+```
+
+> [!NOTE]
+> 
+> [!注意]
+> 
+> 突出显示用户应考虑的信息，即使在浏览时也是如此。
+
+> [!TIP]
+> 
+> [!提示]
+> 
+> 帮助用户取得更大成功的可选信息。
+
+> [!IMPORTANT]
+> 
+> [!重要]
+> 
+> 用户成功所需的重要信息。
+
+> [!WARNING]
+> 
+> [!警告]
+> 
+> 由于存在潜在风险，需要用户立即关注的关键内容。
+
+> [!CAUTION]
+> 
+> [!谨慎]
+> 
+> 操作的潜在负面后果。
 
 关于其它扩展语法可参见具体工具的使用说明。
